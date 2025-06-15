@@ -34,7 +34,7 @@ Follow these steps to set up and run the Voice Assistant:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/sahatg/VoiceAssistantProject.git
+git clone https://github.com/sahatg/VirtualVoiceAssistant.git
 cd VoiceAssistantProject
 
 # Step 2: Verify Python installation
